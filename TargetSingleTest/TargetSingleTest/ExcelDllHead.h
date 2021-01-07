@@ -1,0 +1,1 @@
+_declspec(dllexport) void CreateExcel_Bomb(CString strFileName,CArray<BombStru,BombStru&> &BombStruArray);
